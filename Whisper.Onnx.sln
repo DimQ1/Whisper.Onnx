@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whisper.Onnx", "Whisper.Onnx\Whisper.Onnx.csproj", "{BEA1BB69-1079-44F3-951E-AF0B25198795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whisper.Onnx.Tests", "Whisper.Onnx.Tests\Whisper.Onnx.Tests.csproj", "{3DE22038-BBF3-4BFA-A88C-28AB82754B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEA1BB69-1079-44F3-951E-AF0B25198795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA1BB69-1079-44F3-951E-AF0B25198795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA1BB69-1079-44F3-951E-AF0B25198795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA1BB69-1079-44F3-951E-AF0B25198795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DE22038-BBF3-4BFA-A88C-28AB82754B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE22038-BBF3-4BFA-A88C-28AB82754B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE22038-BBF3-4BFA-A88C-28AB82754B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE22038-BBF3-4BFA-A88C-28AB82754B66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEA384A4-D462-4832-993F-B6AD2BA7A1AA}
+	EndGlobalSection
+EndGlobal
